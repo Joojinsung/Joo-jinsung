@@ -29,4 +29,4 @@
     <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a>
 </div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=joojinsung&show_icons=true">
