@@ -11,7 +11,7 @@
 <h2>MY TECH STACK</h2>
 <p>
    
-  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,aws,vue&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,vue,mysql,aws&perline=7"/>
   
    
 </p>
