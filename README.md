@@ -3,10 +3,9 @@
 <h1><img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> Hello, There!</h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoojinsung&count_bg=%238C9FE1&title_bg=%2316AC7D&icon=&icon_color=%239C1B1B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<h1>JOO JIN SUNG 😉</h1>
 </div>
 
-<p>I'm jinsung, <code>backend-end</code> developer from Korea. I use java often.</p>
+<p>I'm jinsung 😉, <code>backend-end</code> developer from Korea. I use java often.</p>
 
 
 
