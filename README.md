@@ -5,7 +5,42 @@
 ![Joojinsung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joojinsung&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_jinsung1017)](https://solved.ac/dev_jinsung1017/)
 
-# :mailbox_with_mail: Contacts
+<div align="center">
+  <h1>📱 Contact</h1>
+</div>
+<div align="center">
+   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></div>
+</div>
 
-<p align="center"><a href="https://jinsung1017.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logoColor=white&link=https://jinsung1017.tistory.com/"/></a>
-  <a href="mailto:dev.jinsung1017@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.jinsung1017@gmail.com"/></a></p>
+<div align="center">
+  <h1>🚀 Skills</h1>
+</div>
+<div align="center">
+    <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white"/></a>
+   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+  <br>
+    <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+ <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
+  <br>
+    <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+    <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a>
+</div>
+
+<div align="center">
+  <h1>👩‍💻 IDE / Office</h1>
+  
+<div align="center">
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/></a>
+   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  
+</div>
+</div>
+
