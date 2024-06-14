@@ -22,7 +22,7 @@
    
 </p>
 
-<h2>🛠️ TOOLS 🛠️</h2>
+<h2>🛠️ TOOL 🛠️</h2>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-5849BE?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=powershell&logoColor=white)
