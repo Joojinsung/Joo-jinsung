@@ -12,7 +12,7 @@
 <br>
 
 
-<h2>MY TECH STACK</h2>
+<h2>✨MY TECH STACK✨</h2>
 <p>
    
   <img src="https://skillicons.dev/icons?i=java,spring,kotlin&perline=7"/>
