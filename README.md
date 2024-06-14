@@ -1,12 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoojinsung&count_bg=%238C9FE1&title_bg=%2316AC7D&icon=&icon_color=%239C1B1B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<div align="center"><h1>JOO JIN SUNG 😉</h1> 
-
+<h1>JOO JIN SUNG 😉
 </div>
 
 
 
 <div align="center">
-  <h1>📱Contact</h1>
+  <h3>📱Contact</h3>
      <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></div>
 </div>
@@ -14,7 +13,7 @@
 </div>
 
 <div align="center">
-  <h1>🚀 Skills</h1>
+  <h3>🚀 Skills</h3>
 </div>
 <div align="center">
     <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
