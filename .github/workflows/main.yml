@@ -1,9 +1,11 @@
 name: GitHub-Profile-3D-Contrib
+
 on:
   schedule:
     # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"  # 별표 사이에 공백 추가
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,9 +17,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GITHUB_TOKEN 사용 권장
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
+        env:
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         run: |
           git config user.name "joojinsung"
           git config user.email "dev.jinsung1017@gmail.com"
+          git remote set-url origin https://<USERNAME>:${{ secrets.ACTIONS_DEPLOY_KEY }}@github.com/Joojinsung/Joojinsung.git
           git add -A .
           git commit -m "generated"
           git push
