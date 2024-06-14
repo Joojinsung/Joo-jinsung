@@ -30,3 +30,5 @@
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a>
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=joojinsung&show_icons=true">
+
+![](profile-3d-contrib/profile-green-animate.svg)
