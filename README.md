@@ -22,6 +22,5 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-5849BE?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=powershell&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-82529F?style=flat-square&logo=phpstorm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 </div>
