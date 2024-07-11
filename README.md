@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://solved.ac/dev.jinsung7605">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_jinsung1017" alt="Solved.ac dev.jinsung1017" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_jinsung1017" alt="Solved.ac dev_jinsung1017" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=Joojinsung&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
 </div>
