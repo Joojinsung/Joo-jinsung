@@ -16,9 +16,9 @@
 
 
 <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,kotlin&perline=7"/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vue&perline=7"/>
-    <img src="https://skillicons.dev/icons?i=mysql,aws&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=java,spring&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=mysql&perline=7"/>
 </p>
 
 <h2>🛠️ TOOL 🛠️</h2>
